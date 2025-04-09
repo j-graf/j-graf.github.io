@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "John Graf / Personal Website"
+title                    : "John Graf / Mathematician"
 title_separator          : "-"
 name                     : &name "John Graf"
-description              : &description "personal description"
+description              : &description "Mathematician"
 url                      : https://j-graf.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "j-graf/j-graf.github.io"
