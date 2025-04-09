@@ -1,9 +1,9 @@
 ---
-title: "Pfaffian formulation of Schur's Q-functions"
+title: "Pfaffian Formulation of Schur's $$Q$$-functions"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-05-01-pfaffian-formulation-of-schurs-q-functions
-excerpt: 'We prove the vertex operator for Schur's Q-functions with the Pfaffian formulation.'
+excerpt: "We use a Pfaffian formulation to prove the vertex operator for Schur's $$Q$$-functions"
 date: 2025-05-01
 venue: 'Journal of Algebra'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0021869325000523'
