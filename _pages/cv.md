@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, North Carolina State University, 2025
+* Ph.D in Mathematics, North Carolina State University, (To be conferred May 2025)
 * M.S. in Mathematics, North Carolina State University, 2022
 * B.A. in Mathematics (Minor in Computer Science), College of the Holy Cross, 2020
 
