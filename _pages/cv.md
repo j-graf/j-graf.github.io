@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, North Carolina State University, 2025
+* M.S. in Mathematics, North Carolina State University, 2022
+* B.A. in Mathematics (Minor in Computer Science), College of the Holy Cross, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* 2020-2025: Teaching Assistant
+  * North Carolina State University
+ 
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* General: Algebraic combinatorics, representation theory, number theory, symbolic computation, algebraic geometry
+* Specific: Symmetric functions, plethysm, Hall-Littlewood functions, vertex operators, stability properties, Schur's $$Q$$-functions, raising operators, integer partitions
+ 
+Awards and Honors
+======
+* Norris-Franke-Griggs Award for Teaching
+  * North Carolina State University, Spring 2024
 
 Publications
 ======
@@ -58,7 +47,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Languages: English, Spanish
+* Programming: Macaulay2, Python, Java, C++
