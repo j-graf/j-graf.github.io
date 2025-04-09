@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+(This website is a work in progress)
+
 I am a mathematics PhD candidate at North Carolina State University under [Naihuan Jing](https://jing.math.ncsu.edu/). I successfully defended my thesis on 3/4/25, and you can view my dissertation [here](https://www.lib.ncsu.edu/resolver/1840.20/45216). I am currently on the job market.
 
 Research
