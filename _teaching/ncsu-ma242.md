@@ -5,4 +5,5 @@ type: "Instructor (x5)"
 permalink: /teaching/ncsu-ma242
 venue: "North Carolina State University, Department of Mathematics"
 location: "Raleigh, NC, USA"
+date: 2023-08-01
 ---
