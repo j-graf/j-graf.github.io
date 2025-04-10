@@ -1,7 +1,7 @@
 ---
 title: "Calculus I (MA 141)"
 collection: teaching
-type: "Instructor"
+type: "Instructor (x2)"
 permalink: /teaching/ncsu-ma141
 venue: "NCSU, Department of Mathematics"
 location: "Raleigh, NC, USA"
