@@ -79,6 +79,8 @@ author:
 publication_category:
   book:
     title: 'Books'
+  inpreparation:
+    title: 'In Preparation'
   preprint:
     title: 'Preprints'
   article:
