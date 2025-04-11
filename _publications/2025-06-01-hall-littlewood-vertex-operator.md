@@ -4,11 +4,7 @@ author: "John Graf"
 collection: publications
 category: inpreparation
 permalink: /publication/2025-06-01-hall-littlewood-vertex-operator
-excerpt: "TBD1"
 date: 2025-06-01
-venue: 'None'
-paperurl: 'None2'
-citation: "None3"
 ---
 
 Abstract 
