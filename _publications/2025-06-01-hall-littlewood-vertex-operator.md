@@ -6,5 +6,3 @@ category: inpreparation
 permalink: /publication/2025-06-01-hall-littlewood-vertex-operator
 date: 2025-06-01
 ---
-
-Abstract 
