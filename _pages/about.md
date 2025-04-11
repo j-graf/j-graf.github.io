@@ -13,4 +13,4 @@ Research
 ======
 In general, I am interested in combinatorics, representation theory, algebra, and number theory. More specifically, my research mainly focused on algebraic combinatorics and symmetric functions. Much of my work involved the vertex operator construction of the Schur functions, Schur's $$Q$$-functions, and Hall-Littlewood functions. I have found combinatorial interpretations of the Schur's $$Q$$ and Hall-Littlewood vertex operators, and used them to prove stability properties of the functions.
 
-I use computer algebra to assist with research. I've implimented several algorithms to compute Schur's $$Q$$-functions, Hall-Littlewood functions, and plethysm. The code is on my [GitHub page](https://github.com/j-graf).
+I use computer algebra to assist with research. I've implimented several algorithms in Macaulay2 to compute Schur's $$Q$$-functions, Hall-Littlewood functions, and plethysm. The code is on my [GitHub page](https://github.com/j-graf).
