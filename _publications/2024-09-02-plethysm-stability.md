@@ -5,7 +5,7 @@ category: preprint
 permalink: /publication/2024-09-02-plethysm-stability
 excerpt: "We show that Schur's $$Q$$-functions enjoy plethysm stability, except in a special case."
 date: 2024-09-02
-venue: 'ArXiv'
+venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2409.01479'
 citation: "John Graf and Naihuan Jing. Plethysm stability of Schur’s Q-functions. arxiv:2409.01479, 2024."
 ---
