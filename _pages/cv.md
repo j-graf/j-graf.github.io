@@ -40,11 +40,11 @@ Publications
 
 Preprints
 ------
-  <ol>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% if post.category == "preprint" %}
       {% include archive-single-cv.html %}
     {% endif %}
-  {% endfor %}</ol>
+  {% endfor %}</ul>
   
 Journal Articles
 ------
