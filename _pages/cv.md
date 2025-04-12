@@ -37,6 +37,16 @@ Awards and Honors
 
 Publications
 ======
+Preprints
+------
+  <ol>{% for post in site.publications reversed %}
+    {% if post.category == "preprint" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ol>
+  
+Journal Articles
+------
   <ol>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
