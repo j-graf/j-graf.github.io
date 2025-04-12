@@ -37,6 +37,7 @@ Awards and Honors
 
 Publications
 ======
+
 Preprints
 ------
   <ol>{% for post in site.publications reversed %}
@@ -48,7 +49,9 @@ Preprints
 Journal Articles
 ------
   <ol>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% if post.category == "article" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ol>
   
 Talks
