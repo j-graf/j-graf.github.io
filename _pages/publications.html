@@ -16,20 +16,16 @@ author_profile: true
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
 
-    <ul>
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
-      <li>
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
-      </li>
     {% endfor %}
-    </ul>
 
   {% endfor %}
 {% else %}
