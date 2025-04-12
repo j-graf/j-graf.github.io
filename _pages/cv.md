@@ -38,6 +38,14 @@ Awards and Honors
 Publications
 ======
 
+In Preparation
+------
+  <ul>{% for post in site.publications reversed %}
+    {% if post.category == "inpreparation" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
+
 Preprints
 ------
   <ul>{% for post in site.publications reversed %}
