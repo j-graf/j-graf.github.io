@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, North Carolina State University, (To be conferred May 2025)
+* Ph.D in Mathematics, North Carolina State University, 2025
   * Thesis: Schur's $$Q$$-functions: Pfaffian Construction, Vertex Operator Identity, Plethysm, and Generalizations
   * Advisor: Naihuan Jing
 * M.S. in Mathematics, North Carolina State University, 2022
