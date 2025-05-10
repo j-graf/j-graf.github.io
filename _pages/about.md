@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a mathematician, and in May 2025 I received my PhD in Mathematics at North Carolina State University under [Naihuan Jing](https://jing.math.ncsu.edu/). You can view my dissertation [here](https://www.lib.ncsu.edu/resolver/1840.20/45216). I am currently on the job market.
+I am a mathematician, and in May 2025 I received my PhD in Mathematics at North Carolina State University under the direction of [Naihuan Jing](https://jing.math.ncsu.edu/). You can view my dissertation [here](https://www.lib.ncsu.edu/resolver/1840.20/45216). I am currently on the job market.
 
 Research
 ======
