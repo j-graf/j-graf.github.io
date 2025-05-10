@@ -9,7 +9,7 @@ redirect_from:
 
 I am a mathematician, and in May 2025 I received my PhD in Mathematics at North Carolina State University under the direction of [Naihuan Jing](https://jing.math.ncsu.edu/). I am currently on the job market. 
 
-You may download the PDF of my CV <a href="../files/Graf_CV.pdf">here</a>, or view the HTML version using the above tab.
+You may download the PDF of my CV <a href="../files/Graf_CV.pdf" target="_blank">here</a>, or view the HTML version using the above tab.
 
 Research
 ======
